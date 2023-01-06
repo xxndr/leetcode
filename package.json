@@ -1,0 +1,24 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxndr/leetcode.git"
+  },
+  "keywords": [],
+  "author": "xxxndr <malinsancho@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xxndr/leetcode/issues"
+  },
+  "homepage": "https://github.com/xxndr/leetcode#readme",
+  "devDependencies": {
+    "prettier": "^2.8.1",
+    "typescript": "^4.9.4"
+  }
+}
