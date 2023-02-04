@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "debug": "ts-node src/leetcode/739.ts"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,7 @@
   "homepage": "https://github.com/xxndr/leetcode#readme",
   "devDependencies": {
     "prettier": "^2.8.1",
+    "ts-node": "^10.9.1",
     "typescript": "^4.9.4"
   },
   "dependencies": {
